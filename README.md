@@ -93,7 +93,7 @@ Interests   : Formula 1 🏎️ | Gaming 🎮 | Breaking software 🧪
 
 ## `> PIT STOP — FUN FACTS` 🏎️
 
-- 🔴 F1 Fan — *currently watching [YOUR FAVOURITE TEAM] dominate (or suffer)*
+- 🔴 F1 Fan — *currently watching Max Verstappen suffer*
 - 🎮 Game Tester by internship, Gamer by passion
 - 🧪 I find bugs for fun. Yes, really.
 - ⚡ Dev mode: React + Flutter for side projects
