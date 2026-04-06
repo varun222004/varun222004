@@ -36,7 +36,7 @@
 ```yaml
 Name        : Varun V
 Role        : QA Engineer | SDET | Game Tester
-Status      : Final Year B.Tech IT @ [Your College Name]
+Status      : Final Year B.Tech IT @ Alliance University
 Experience  : 6 months → SDET Intern + Game Testing Intern
 Currently   : Learning Selenium + Java | Building automation portfolio
 Interests   : Formula 1 🏎️ | Gaming 🎮 | Breaking software 🧪
