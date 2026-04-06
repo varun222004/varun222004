@@ -83,7 +83,7 @@ Interests   : Formula 1 🏎️ | Gaming 🎮 | Breaking software 🧪
 ## `> CURRENT OBJECTIVES` 🎯
 
 ```
-[████████░░░░░░░░░░░░]  40%  →  Selenium + Java Automation Framework
+[████████░░░░░░░░░░░░]  40%  →  Selenium + Maestro + Java Automation Framework
 [██████░░░░░░░░░░░░░░]  30%  →  API Testing Portfolio (Postman + Newman)
 [████░░░░░░░░░░░░░░░░]  20%  →  CI/CD with GitHub Actions
 [██░░░░░░░░░░░░░░░░░░]  10%  →  First Full-Time QA Role 🏁
